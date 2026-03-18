@@ -173,11 +173,16 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b916033a42ae80fa",
+  "active": "d28f7cd17647d272",
   "lastOpenFiles": [
+    "code/phase0/aaa.py",
+    "code/phase0/Phase0_Session2_Q3.cpp",
+    "code/phase0/Phase0_Session2_Q2.cpp",
+    "code/phase0/Phase0_Session2_Q1.cpp",
     "無題のファイル.base",
     "Phase 0 Session 1_Q1.cpp",
     "sessions/2026-03-17_P0_S1_入出力.md",
@@ -188,10 +193,6 @@
     "code/phase4",
     "code/phase3",
     "code/phase2",
-    "code/phase0",
-    "code/phase1",
-    "code",
-    "progress",
     "SKILL.md"
   ]
 }
